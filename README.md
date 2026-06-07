@@ -15,7 +15,7 @@ It runs on the .NET Framework 4.8 that is built into Windows 10 (1903+) and Wind
 ## Running it
 
 Run **`FortniteStatus.exe`**.
-The first time you run the downloaded / built `.exe`, Windows may show "Windows protected your PC." Click **More info**, then **Run anyway**.
+The first time you run the built `.exe`, Windows may show "Windows protected your PC." Click **More info**, then **Run anyway**.
 
 Click the gear icon (top right) to open settings:
 Your settings are saved to `%APPDATA%\FortniteStatus\config.json`.
