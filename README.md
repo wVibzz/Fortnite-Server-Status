@@ -20,6 +20,9 @@ The first time you run the downloaded / built `.exe`, Windows may show "Windows 
 Click the gear icon (top right) to open settings:
 Your settings are saved to `%APPDATA%\FortniteStatus\config.json`.
 
+<img width="352" height="270" alt="image" src="https://github.com/user-attachments/assets/cbe65e64-502c-468e-bb32-e12676930b62" />
+
+
 ## How it works
 
 The app polls two Epic endpoints every second:
