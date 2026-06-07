@@ -34,3 +34,7 @@ The app polls two Epic endpoints every second:
 
 - Windows only.
 - If a check fails (no internet, or an Epic endpoint is down), the title bar shows "ping failed" and the launch gate reads "Unknown".
+
+## Also useful
+
+- `status.epicgames.com`
